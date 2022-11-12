@@ -7,3 +7,7 @@ if($n <= 100){
     elseif(($n <= 11)&&(($n==2)or($n==3)or($n==5)or($n==7)or($n==11)  )){
         echo 'adad aval ast.';
     }
+    else{
+        echo "adad aval nist";
+    }
+}
